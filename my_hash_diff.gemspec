@@ -2,6 +2,7 @@
 Gem::Specification.new do |spec|
   spec.name = "my_hash_diff"
   spec.authors = ['Dan Lucian-Gabriel']
+  spec.version = '1.0.0'
   spec.email = ['example@example.com']
   spec.summary = 'summary of gem'
   spec.description = 'description of gem'
