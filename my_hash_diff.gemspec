@@ -1,4 +1,4 @@
-#specs
+#specs of the gem
 Gem::Specification.new do |spec|
   spec.name = "my_hash_diff"
   spec.authors = ['Dan Lucian-Gabriel']
